@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(216,224,235);
+}
+
+.light-blue {
+    color: rgb(74,142,222);
+}
+
+.dark-blue {
+    color: rgb(31, 80, 139);
+}
+
+.white-bg-box {
+    background-color: white;
+}

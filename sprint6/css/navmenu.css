@@ -1,0 +1,27 @@
+body {
+    font-weight: bold;
+}
+
+#first-part {
+    color: rgb(74,142,222);
+    font-size: large;
+}
+
+#second-part {
+    font-size: large;
+}
+
+.nav-link, .middle-pipe {
+    color: rgb(74,142,222);
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color: rgb(31, 80, 139);
+}
+
+.navbar-toggler {
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
